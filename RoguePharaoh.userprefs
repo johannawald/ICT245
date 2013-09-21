@@ -2,14 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GUI/Options/OptionManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/Game/UserInterface.cs" Line="26" Column="55" />
+      <File FileName="Assets/Scripts/Game/UserInterface.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GUI/MainMenu.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GUI/Credits.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GUI/HowTo.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/GUI/Options/Options.cs" Line="40" Column="3" />
+      <File FileName="Assets/Scripts/GUI/Options/Options.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GUI/Options/OptionManager.cs" Line="5" Column="46" />
-      <File FileName="Assets/Scripts/Game/GhostMovement.cs" Line="12" Column="18" />
-      <File FileName="Assets/Scripts/GUI/Options/SetSettings.cs" Line="13" Column="159" />
+      <File FileName="Assets/Scripts/Game/GhostMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/Options/SetSettings.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
